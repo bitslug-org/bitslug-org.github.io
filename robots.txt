@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap generata da Astro
+Sitemap: https://bitslug-org.github.io/sitemap-index.xml
